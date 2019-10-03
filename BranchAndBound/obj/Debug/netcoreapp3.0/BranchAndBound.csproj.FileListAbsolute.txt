@@ -1,0 +1,12 @@
+D:\projects\uni\opr\BranchAndBound\BranchAndBound\bin\Debug\netcoreapp3.0\BranchAndBound.exe
+D:\projects\uni\opr\BranchAndBound\BranchAndBound\bin\Debug\netcoreapp3.0\BranchAndBound.deps.json
+D:\projects\uni\opr\BranchAndBound\BranchAndBound\bin\Debug\netcoreapp3.0\BranchAndBound.runtimeconfig.json
+D:\projects\uni\opr\BranchAndBound\BranchAndBound\bin\Debug\netcoreapp3.0\BranchAndBound.runtimeconfig.dev.json
+D:\projects\uni\opr\BranchAndBound\BranchAndBound\bin\Debug\netcoreapp3.0\BranchAndBound.dll
+D:\projects\uni\opr\BranchAndBound\BranchAndBound\bin\Debug\netcoreapp3.0\BranchAndBound.pdb
+D:\projects\uni\opr\BranchAndBound\BranchAndBound\obj\Debug\netcoreapp3.0\BranchAndBound.AssemblyInfoInputs.cache
+D:\projects\uni\opr\BranchAndBound\BranchAndBound\obj\Debug\netcoreapp3.0\BranchAndBound.AssemblyInfo.cs
+D:\projects\uni\opr\BranchAndBound\BranchAndBound\obj\Debug\netcoreapp3.0\BranchAndBound.dll
+D:\projects\uni\opr\BranchAndBound\BranchAndBound\obj\Debug\netcoreapp3.0\BranchAndBound.pdb
+D:\projects\uni\opr\BranchAndBound\BranchAndBound\obj\Debug\netcoreapp3.0\BranchAndBound.csproj.CopyComplete
+D:\projects\uni\opr\BranchAndBound\BranchAndBound\obj\Debug\netcoreapp3.0\BranchAndBound.csprojAssemblyReference.cache
